@@ -25,5 +25,6 @@
         "http://dx.doi.org/10.1002/hbm.26785",
         "https://escholarship.org/content/qt4ng6r46m/qt4ng6r46m.pdf"
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "",
+    "Acknowledgements": "The authors thank Jan Martin and Frederik Bernd Lund at the Institute of Radiology, University Hospital Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany for providing software code for the gradient tensor waveforms. We would also like to thank Mario Mendoza for MRI assistance, as well as Drs. Laura Pritschet, Shuying Yu, Caitlin Taylor, and Tyler Santander for advising on study procedures. "
 }
