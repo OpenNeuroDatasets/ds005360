@@ -5,9 +5,10 @@ To uncover answers, we applied state-of-the-art neuroimaging and physiological r
 
 ### Dataset: Brain Anatomy and Structure 
 **Current Version:** 1.0.0 
+
 **Note:** This repository contains brain structural data for the subset of HHS participants who completed 3 MRI sessions and consented to open data sharing (22/30). Future updates may include functional resting-state measures. 
 
--**Dataset Description:** 22 young, naturally cycling female participants underwent T1-weighted anatomical and multidimensional diffusion MRI 
+**Dataset Description:** 22 young, naturally cycling female participants underwent T1-weighted anatomical and multidimensional diffusion MRI 
   - Inclusion criteria: participants must be between the ages of 18-30, be nulliparous, have not used any hormonal or implant birth control within three months prior to onset of study involvement, have never undergone hormonal therapy, have no plans to begin birth control or become pregnant within the upcoming year, and have a relatively regular (21-40 day length) menstrual cycle 
   - Exclusionary criteria: contraindications to MRI (non-removable metal, incompatible medical devices, hearing loss/tinnitus, claustrophobia) and medical history of clinically significant reproductive, cardiovascular, neurological, or psychiatric conditions (other than mild-moderate mood or attention deficit disorders)
 
@@ -24,10 +25,10 @@ Following the anatomical scan, a series of 4 spherical b-tensor (b = 0, 100 – 
 
 ## More Information
 For more information, please visit:
-- [Our published cortical thickness and white matter microstructure findings] (http://dx.doi.org/10.1002/hbm.26785)
-- [The menstrual cycle can reshape your brain] (https://www.nationalgeographic.com/premium/article/menstruation-brain-women-reshape)
-- [Women's brains change across the menstrual cycle] (https://www.washingtonpost.com/wellness/2023/11/30/women-brain-menstrual-cycle-changes/)
-- [A Novel Study Reveals A Strong Correlation Between The Menstrual Cycle And Brain Changes] (https://www.inverse.com/health/novel-study-reveals-strong-correlation-menstrual-cycle-brain-changes)
+- [Our published cortical thickness and white matter microstructure findings](http://dx.doi.org/10.1002/hbm.26785)
+- [The menstrual cycle can reshape your brain](https://www.nationalgeographic.com/premium/article/menstruation-brain-women-reshape)
+- [Women's brains change across the menstrual cycle](https://www.washingtonpost.com/wellness/2023/11/30/women-brain-menstrual-cycle-changes/)
+- [A Novel Study Reveals A Strong Correlation Between The Menstrual Cycle And Brain Changes](https://www.inverse.com/health/novel-study-reveals-strong-correlation-menstrual-cycle-brain-changes)
 
 ## Citation
 Please cite the following:  
