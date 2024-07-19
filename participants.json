@@ -1,0 +1,68 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "session_id": {
+        "Description": "Participant experimental session identifier"
+    },
+    "age": {
+        "Description": "Age of the participant",
+        "Units": "years",
+        "Levels": {
+            "n/a": "Not Available"
+        }
+    },
+    "sex": {
+        "Description": "Sex-at-birth of the participant",
+        "Levels": {
+            "M": "Male",
+            "F": "Female"
+        }
+    },
+    "race_ethnicity": {
+        "Description": "Race/ethnicity of the participant",
+        "Levels": {
+        	"B": "Black or African-American",
+        	"EA": "East asian",
+        	"HL": "Hispanic/Latino",
+            "SEA": "South-east asian",
+            "W": "White"
+        }
+    },
+    "est_cycle_phase": {
+        "Description": "Estimated cycle phase during experiment session",
+        "Levels": {
+        	"L": "Mid-luteal",
+        	"M": "Menses",
+        	"O": "Ovulation"
+        }
+    },
+    "E2": {
+        "Description": "Serum 17beta-estradiol levels at session",
+        "Units": "pg/ml",
+        "Levels": {
+            "n/a": "Not Available"
+        }
+    },
+    "P4": {
+        "Description": "Serum progesterone levels at session",
+        "Units": "ng/ml",
+        "Levels": {
+            "n/a": "Not Available"
+        }
+    },
+    "LH": {
+        "Description": "Serum luteinizing hormone levels at session",
+        "Units": "mIU/ml",
+        "Levels": {
+            "n/a": "Not Available"
+        }
+    },
+    "FSH": {
+        "Description": "Serum follicle-stimulating hormone levels at session",
+        "Units": "mIU/ml",
+        "Levels": {
+            "n/a": "Not Available"
+        }
+    }
+}
