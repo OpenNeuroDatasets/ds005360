@@ -4,7 +4,7 @@ The Hormone Health Study (HHS) at the University of California, Santa Barbara wa
 To uncover answers, we applied state-of-the-art neuroimaging and physiological recording techniques to assess how human physiology, behavior, and brain structure and function co-fluctuate with naturally cycling hypothalamic-pituitary-gonadal (HPG)-axis hormones across 3 estimated cycle phases: menses, ovulation, and mid-luteal. 
 
 ### Dataset: Brain Anatomy and Structure 
-**Current Version:** 1.0.0 
+**Current Version:** 1.0.1 
 
 **Note:** This repository contains brain structural data for the subset of HHS participants who completed 3 MRI sessions and consented to open data sharing (22/30). Future updates may include functional resting-state measures. 
 
